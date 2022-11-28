@@ -15,3 +15,5 @@ This project will hope to add some of the following:
   - Referencing APIs & OAuth usage
 - Inform the public of the FGCU sports team events more effecicently through mailing lists, notifications, and individual player promotion
 - Give players the tools and training necessary to manage theirs/organizational social media(s) to effectively promote their team & sport.
+
+The objective of this project is to draw attention to students at FGCU to obtain higher attendance at sporting events on campus as well as informing the campus about important school spirit events. 
